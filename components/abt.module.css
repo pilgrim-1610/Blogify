@@ -1,0 +1,60 @@
+.img {
+  width:150; 
+  height:150;
+  box-shadow: 10px 10px 5px 0px;
+  border-radius:50%;
+  display: block;
+  margin-left: auto;
+margin-right: auto;
+
+}
+.btn{
+    padding:10px;
+    text-align: center;
+
+   
+}
+.Name{
+  font-family: 'Nanum Pen Script', cursive;
+  text-align: center;
+
+}
+.About{
+  font-family: 'Nanum Pen Script', cursive;
+  text-align: center;
+  position: relative;
+    }
+.blog{
+  font-family: 'Nanum Pen Script', cursive;
+  text-align: center;
+}
+.contact{
+  font-family: 'Nanum Pen Script', cursive;
+  text-align: center;
+}
+.footer {
+   margin-top: 50px;
+   padding:10px;
+  width: 100%;
+  background-color: #424242;
+  color:white;
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+}
+.rootcard{
+  display: flex;
+    max-width: 700px;
+    margin:auto;
+}
+
+
+.jumbotron{
+  size:auto;
+  background-image: url("https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2017/08/image13.jpg");
+  background-repeat: no-repeat;
+  background-size:auto;
+ 
+  box-shadow: 10px 10px 5px 0px ;
+}

@@ -1,0 +1,7 @@
+.jumbotron{
+    background-image: url("https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2017/08/image13.jpg");
+    background-repeat: no-repeat;
+    background-size:auto;
+   
+    box-shadow: 10px 10px 5px 0px ;
+  }
